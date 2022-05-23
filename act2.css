@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    font-family: "tipo.ttf";
+}
+.left{
+    position: absolute;
+    top: 0px;
+    left: 0px; 
+    max-width: 500px;
+}
+img{
+    max-width: 2000px;
+}
+.im{
+    position: absolute;
+    max-width: 2000px;
+    top:0px;
+    right: 0px;
+}
+
+.a1{
+    position: absolute;
+    top: 300px;
+    right: 750px;
+}
+
+.a2{
+    position: absolute;
+    top: 360px;
+    right: 750px;
+}
+
+.a3{
+    position: absolute;
+    top: 420px;
+    right: 750px;
+}
+
+.a4{
+    position: absolute;
+    top: 480px;
+    right: 750px;
+}
